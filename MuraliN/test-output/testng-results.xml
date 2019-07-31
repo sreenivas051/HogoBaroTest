@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="96" started-at="2019-07-31T13:54:44Z" finished-at="2019-07-31T13:54:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="96" started-at="2019-07-31T13:54:44Z" finished-at="2019-07-31T13:54:44Z">
+      <class name="NewMavenMaven.MuraliN.NuraliTestNugTest">
+        <test-method status="PASS" signature="naughty123Test()[pri:0, instance:NewMavenMaven.MuraliN.NuraliTestNugTest@58651fd0]" name="naughty123Test" duration-ms="57" started-at="2019-07-31T19:24:44Z" finished-at="2019-07-31T19:24:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- naughty123Test -->
+        <test-method status="PASS" signature="naughtyTest()[pri:0, instance:NewMavenMaven.MuraliN.NuraliTestNugTest@58651fd0]" name="naughtyTest" duration-ms="3" started-at="2019-07-31T19:24:44Z" finished-at="2019-07-31T19:24:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- naughtyTest -->
+      </class> <!-- NewMavenMaven.MuraliN.NuraliTestNugTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
